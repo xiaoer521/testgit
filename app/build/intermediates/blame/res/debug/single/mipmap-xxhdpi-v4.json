@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/haipingguo/GitProject/testgit/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/haipingguo/GitProject/testgit/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/haipingguo/桌面/AdDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/haipingguo/桌面/AdDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
